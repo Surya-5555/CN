@@ -1,11 +1,3 @@
-Of course! My apologies if the previous response was unclear.
-
-Here is the complete, detailed blog post about the OSI Model in a single Markdown block. It includes the Mermaid diagram and the expanded explanations for all 7 layers based on your notes.
-
-You can copy and paste everything inside the box below directly into your file.
-
----
-
 ```markdown
 # The Digital Journey: A Deep Dive into the OSI Model
 
